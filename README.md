@@ -1,6 +1,6 @@
 Game for tweetJam limited to 560 characters 
 
-![screenshot](./others/screenshot.png)
+![screenshot](./others/screenshot.jpg)
 
 # Gameplay
 
