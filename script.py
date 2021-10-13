@@ -1,4 +1,4 @@
-# verify the lenght of 'main.py'
+# verify the length of 'main.py'
 with open('main.py', 'r') as file:
 	l = len(file.read())
 	print(l <= 560)
