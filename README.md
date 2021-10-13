@@ -1,5 +1,7 @@
 Game for tweetJam limited to 560 characters 
 
+![screenshot](./screenshot.png)
+
 # Gameplay
 
 Use your mouse to escape the red enemies.
@@ -13,4 +15,4 @@ with other non restricted pygames, to see how much code size affect the result
 python3, pygame
 
 
-_script.py just checks the lenght of the main.py file to see if its less than 560_
+_script.py just checks the length of the main.py file to see if its less than 560_
